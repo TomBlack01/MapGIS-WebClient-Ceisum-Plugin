@@ -1,6 +1,6 @@
 {
   "name": "@mapgis/webclient-ceisum-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mapgis webclient ceisum plugin",
   "main": "build/webclient-cesium-plugins.js",
   "scripts": {
@@ -15,8 +15,8 @@
   ],
   "author": "gongyuejian",
   "license": "ISC",
+  "homepage": "https://github.com/gyj12/MapGIS-WebClient-Ceisum-Plugin#readme",
   "bugs": {
-    "url": ""
-  },
-  "homepage": ""
+    "url": "https://github.com/gyj12/MapGIS-WebClient-Ceisum-Plugin/issues"
+  }
 }
